@@ -1,0 +1,3 @@
+mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+randomforest.pkl filter=lfs diff=lfs merge=lfs -text
+Random[[:space:]]Forest/randomforest.pkl filter=lfs diff=lfs merge=lfs -text
